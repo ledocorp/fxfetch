@@ -5,4 +5,4 @@
 3. NetCap `--allow-host` and `--ca` stay mandatory for HTTPS.
 4. Public docs stay free of private board jargon.
 
-License: Apache-2.0.
+License: GPL-3.0.

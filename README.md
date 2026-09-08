@@ -8,7 +8,7 @@ fxfetch performs one HTTPS GET with an explicit host allowlist and CA file. Stat
 |--|--|
 | **Requires** | [fx](https://github.com/ledocorp/fxlang) **0.9.6+** (with `--cli`) · Mbed TLS for rebuild |
 | **Platforms** | Windows + Linux **x86_64** |
-| **License** | Apache-2.0 (tool) · Apache-2.0 (Mbed TLS) |
+| **License** | GPL-3.0 (tool) · GPL-2.0-or-later (Mbed TLS; dual-licensed upstream) |
 | **Org** | [LedoCorp](http://www.ledocorp.org) |
 
 ## Install (release binaries)
@@ -80,4 +80,4 @@ POST · forms · cookies · redirects · HTTP/2/3 · browser theater · ambient 
 
 ## License
 
-Copyright Shawn Londono · LedoCorp · Apache-2.0 — see [LICENSE](LICENSE).
+Copyright Shawn Londono · LedoCorp · GPL-3.0 — see [LICENSE](LICENSE).
